@@ -1,0 +1,8 @@
+﻿apks/*.apk
+*.log
+pulled/
+*.tmp
+android-app/build/
+android-app/debug.keystore
+android-app/test/
+**/*.class
